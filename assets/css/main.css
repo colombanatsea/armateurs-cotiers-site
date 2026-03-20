@@ -999,3 +999,64 @@ a:hover {
   color: var(--color-primary);
   background: var(--color-primary-lighter);
 }
+
+/* =============================================
+   HOME PILLAR CTA
+   ============================================= */
+.home-pillar {
+  padding: var(--space-10) var(--space-5);
+  background: var(--color-bg-alt);
+  border-top: 1px solid var(--color-border);
+}
+.home-pillar__inner {
+  max-width: var(--max-width-wide);
+  margin-inline: auto;
+}
+.home-pillar__inner h2 {
+  font-family: var(--font-heading);
+  font-size: clamp(var(--text-xl), 3vw, var(--text-2xl));
+  font-weight: 700;
+  color: var(--color-primary);
+  margin-bottom: var(--space-3);
+}
+.home-pillar__inner p {
+  font-size: var(--text-lg);
+  color: var(--color-text-secondary);
+  max-width: 65ch;
+  line-height: 1.7;
+}
+.home-pillar__inner a {
+  color: var(--color-accent);
+  text-decoration-thickness: 2px;
+}
+
+/* =============================================
+   HUB ARTICLES SECTION (on hub/index pages)
+   ============================================= */
+.hub-articles {
+  margin-top: var(--space-12);
+  padding-top: var(--space-10);
+  border-top: 1px solid var(--color-border);
+}
+.hub-articles h2 {
+  font-family: var(--font-heading);
+  font-size: var(--text-xl);
+  font-weight: 700;
+  color: var(--color-primary);
+  margin-bottom: var(--space-6);
+}
+
+/* =============================================
+   ARTICLE SUMMARY (pillar page intro)
+   ============================================= */
+.article-summary {
+  font-size: var(--text-lg);
+  color: var(--color-text-secondary);
+  line-height: 1.7;
+  max-width: 65ch;
+  margin-bottom: var(--space-6);
+  padding: var(--space-4) var(--space-5);
+  background: var(--color-bg-alt);
+  border-left: 3px solid var(--color-accent);
+  border-radius: 0 var(--border-radius) var(--border-radius) 0;
+}
