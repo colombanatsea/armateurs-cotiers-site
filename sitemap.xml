@@ -31,79 +31,127 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://armateurscotiers.fr/metiers/capitaine-navire-cotier.html</loc>
+    <loc>https://armateurscotiers.fr/transport-maritime-cotier/cartographie-lignes-france.html</loc>
     <lastmod>2026-03-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://armateurscotiers.fr/metiers/formation-maritime-ensm.html</loc>
+    <loc>https://armateurscotiers.fr/transport-maritime-cotier/chiffres-cles.html</loc>
     <lastmod>2026-03-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://armateurscotiers.fr/metiers/</loc>
+    <loc>https://armateurscotiers.fr/transport-maritime-cotier/collectivites-autorites-organisatrices.html</loc>
+    <lastmod>2026-03-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://armateurscotiers.fr/transport-maritime-cotier/comparaison-modes-transport.html</loc>
+    <lastmod>2026-03-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://armateurscotiers.fr/transport-maritime-cotier/delegation-service-public.html</loc>
+    <lastmod>2026-03-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://armateurscotiers.fr/transport-maritime-cotier/economie-transport-cotier.html</loc>
+    <lastmod>2026-03-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://armateurscotiers.fr/transport-maritime-cotier/fret-vehicules-passages-eau.html</loc>
+    <lastmod>2026-03-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://armateurscotiers.fr/transport-maritime-cotier/histoire-passages-eau.html</loc>
+    <lastmod>2026-03-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://armateurscotiers.fr/transport-maritime-cotier/impact-climatique-liaisons.html</loc>
+    <lastmod>2026-03-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://armateurscotiers.fr/transport-maritime-cotier/</loc>
     <lastmod>2026-03-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://armateurscotiers.fr/metiers/matelot-pont-navire-cotier.html</loc>
+    <loc>https://armateurscotiers.fr/transport-maritime-cotier/intermodalite-mer-terre.html</loc>
     <lastmod>2026-03-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://armateurscotiers.fr/metiers/mecanicien-navire-cotier.html</loc>
+    <loc>https://armateurscotiers.fr/transport-maritime-cotier/liaisons-insulaires-france.html</loc>
     <lastmod>2026-03-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://armateurscotiers.fr/metiers/opco-mobilites-maritime.html</loc>
+    <loc>https://armateurscotiers.fr/transport-maritime-cotier/navettes-urbaines-maritimes.html</loc>
     <lastmod>2026-03-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://armateurscotiers.fr/metiers/personnel-hotelier-bord.html</loc>
+    <loc>https://armateurscotiers.fr/transport-maritime-cotier/obligations-service-public.html</loc>
     <lastmod>2026-03-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://armateurscotiers.fr/metiers/reconversion-vers-maritime.html</loc>
+    <loc>https://armateurscotiers.fr/transport-maritime-cotier/passages-eau-france.html</loc>
     <lastmod>2026-03-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://armateurscotiers.fr/metiers/recrutement-marins-cotier.html</loc>
+    <loc>https://armateurscotiers.fr/transport-maritime-cotier/qualite-service-passagers.html</loc>
     <lastmod>2026-03-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://armateurscotiers.fr/metiers/salaires-marins-transport-cotier.html</loc>
+    <loc>https://armateurscotiers.fr/transport-maritime-cotier/role-social-transport-cotier.html</loc>
     <lastmod>2026-03-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://armateurscotiers.fr/metiers/statut-marin-professionnel.html</loc>
+    <loc>https://armateurscotiers.fr/transport-maritime-cotier/saisonnalite-trafic-maritime.html</loc>
     <lastmod>2026-03-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://armateurscotiers.fr/metiers/syndicalisme-maritime.html</loc>
+    <loc>https://armateurscotiers.fr/transport-maritime-cotier/securite-passagers-embarquement.html</loc>
     <lastmod>2026-03-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://armateurscotiers.fr/metiers/temps-travail-embarque.html</loc>
+    <loc>https://armateurscotiers.fr/transport-maritime-cotier/tourisme-maritime-cotier.html</loc>
+    <lastmod>2026-03-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://armateurscotiers.fr/transport-maritime-cotier/transport-outre-mer.html</loc>
     <lastmod>2026-03-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -361,31 +409,127 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://armateurscotiers.fr/transport-maritime-cotier/chiffres-cles.html</loc>
+    <loc>https://armateurscotiers.fr/metiers/anglais-maritime-communication.html</loc>
     <lastmod>2026-03-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://armateurscotiers.fr/transport-maritime-cotier/delegation-service-public.html</loc>
+    <loc>https://armateurscotiers.fr/metiers/capitaine-navire-cotier.html</loc>
     <lastmod>2026-03-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://armateurscotiers.fr/transport-maritime-cotier/</loc>
+    <loc>https://armateurscotiers.fr/metiers/evolution-metiers-maritime-2040.html</loc>
+    <lastmod>2026-03-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://armateurscotiers.fr/metiers/femmes-metiers-mer.html</loc>
+    <lastmod>2026-03-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://armateurscotiers.fr/metiers/formation-maritime-ensm.html</loc>
+    <lastmod>2026-03-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://armateurscotiers.fr/metiers/</loc>
     <lastmod>2026-03-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://armateurscotiers.fr/transport-maritime-cotier/obligations-service-public.html</loc>
+    <loc>https://armateurscotiers.fr/metiers/matelot-pont-navire-cotier.html</loc>
     <lastmod>2026-03-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://armateurscotiers.fr/transport-maritime-cotier/passages-eau-france.html</loc>
+    <loc>https://armateurscotiers.fr/metiers/mecanicien-navire-cotier.html</loc>
+    <lastmod>2026-03-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://armateurscotiers.fr/metiers/metier-bosco-maitre-equipage.html</loc>
+    <lastmod>2026-03-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://armateurscotiers.fr/metiers/numerique-digitalisation-bord.html</loc>
+    <lastmod>2026-03-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://armateurscotiers.fr/metiers/opco-mobilites-maritime.html</loc>
+    <lastmod>2026-03-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://armateurscotiers.fr/metiers/personnel-hotelier-bord.html</loc>
+    <lastmod>2026-03-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://armateurscotiers.fr/metiers/reconversion-vers-maritime.html</loc>
+    <lastmod>2026-03-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://armateurscotiers.fr/metiers/recrutement-marins-cotier.html</loc>
+    <lastmod>2026-03-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://armateurscotiers.fr/metiers/retraite-marin-regime-special.html</loc>
+    <lastmod>2026-03-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://armateurscotiers.fr/metiers/salaires-marins-transport-cotier.html</loc>
+    <lastmod>2026-03-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://armateurscotiers.fr/metiers/sante-securite-travail-bord.html</loc>
+    <lastmod>2026-03-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://armateurscotiers.fr/metiers/statut-marin-professionnel.html</loc>
+    <lastmod>2026-03-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://armateurscotiers.fr/metiers/syndicalisme-maritime.html</loc>
+    <lastmod>2026-03-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://armateurscotiers.fr/metiers/temps-travail-embarque.html</loc>
+    <lastmod>2026-03-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://armateurscotiers.fr/metiers/vie-bord-quotidien-marin.html</loc>
     <lastmod>2026-03-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
